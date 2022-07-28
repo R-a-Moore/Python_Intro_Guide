@@ -6,7 +6,7 @@ To begin with you need to create a 'python file' by right clicking on the projec
 Click on this new .py file, and try typing `print("Hello World")`. Then run this code, by pressing the green arrow at the top right of pycharm, 
 right clicking on the code and selecting run "your python file name". This should show your message in the console. Try writing different messages. 
 
-In python (and other programming languages), variables allow us to operate with identifiable data. There are different data types for variables, here are examples:
+In python (and other programming languages), variables allow us to operate with identifiable data. There are different data types for variables [as seen here](https://realpython.com/python-data-types/), here are examples:
 ```
 name = "Maiks 19 + 8" # string
 age = 99 # int
