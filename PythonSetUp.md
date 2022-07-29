@@ -1,4 +1,4 @@
-How to Install and Set Up Python with Pycharm
+# How to Install and Set Up Python with Pycharm
 
 ![Python logo](https://www.python.org/static/img/python-logo.png)
 
