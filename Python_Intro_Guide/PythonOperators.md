@@ -13,3 +13,6 @@
 - `<` less than
 - `>=` greater than / equal to
 - `<=` less than / equal to
+
+# Functions & Mehtods
+
